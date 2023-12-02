@@ -1,4 +1,4 @@
-# Vite vs Rsbuild
+# Vite vs Rsbuild (JSX with React)
 
 Compare bundle and unbundle mechanisms
 
