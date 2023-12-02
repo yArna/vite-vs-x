@@ -1,0 +1,39 @@
+main {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+  width: 800px;
+  height: 800px;
+  background: hsl(240, 9%, 93%);
+  overflow: auto;
+}
+
+.comp {
+  width: 80px;
+  height: 50px;
+  border: 1px solid #a8abb9;
+  margin: 4px;
+  border-radius: 2px;
+  display: flex;
+  place-content: center;
+  place-items: center;
+  font-family: monospace;
+  color: #453d85;
+  font-weight: bold;
+}
+
+div#info {
+  margin: auto;
+  place-content: center;
+  place-items: center;
+  display: flex;
+  height: 30px;
+  background: #4237a0;
+  color: #fff;
+  font-size: 24px;
+  padding: 20px;
+  margin-bottom: 8px;
+  font-family: monospace;
+}

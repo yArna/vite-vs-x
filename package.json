@@ -1,0 +1,21 @@
+{
+  "name": "vite-vs-x",
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev-vite": "vite",
+    "dev-rsbuild": "rsbuild dev"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.22",
+    "@types/react-dom": "^18.0.7",
+    "vite": "^5.0.4",
+    "@vitejs/plugin-react-swc": "^3.5.0",
+    "@rsbuild/core": "^0.1.7",
+    "@rsbuild/plugin-react": "^0.1.7"
+  }
+}
