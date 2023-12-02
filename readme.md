@@ -2,6 +2,10 @@
 
 Compare bundle and unbundle mechanisms
 
+
+<img width="723" alt="image" src="https://github.com/yArna/vite-vs-x/assets/82231420/85103e2a-ed4f-43d2-9e7a-29b6d862d74c">
+
+
 ## Page Reload (ms)
 
 | modules | Vite(5.0.4) | Rsbuild(0.1.7) |
