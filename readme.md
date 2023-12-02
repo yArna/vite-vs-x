@@ -20,3 +20,4 @@ Compare bundle and unbundle mechanisms
 | 3000    | 4657.80     | 473.80         |
 
 > Device: MacBook Pro 2019 Intel Core i5  2.4 GHz 16GB
+> Chrome 119.0
