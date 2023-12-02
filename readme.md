@@ -1,4 +1,4 @@
-# Vite vs Rsbuild
+# Vite vs Rsbuild (JSX with React)
 
 | test        | Vite(5.0.4) | Rsbuild(0.1.7) |
 | ----------- | ----------- | -------------- |
